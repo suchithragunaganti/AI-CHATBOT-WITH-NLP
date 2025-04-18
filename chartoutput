@@ -1,0 +1,24 @@
+
+BOT: Hello! I am your assistant. Type 'bye' to exit.
+
+
+YOU: hello
+BOT: Hi there!
+
+YOU: what is your name?
+BOT: I am a chatbot created using Python.
+
+YOU: what do you do?
+BOT: I can answer your basic questions.
+
+YOU: where do you live?
+BOT: I live in your computer!
+
+YOU: thank you
+BOT: You're welcome
+
+YOU: who is the president of the USA?
+BOT: I'm sorry, I don't understand that.
+
+YOU: bye
+BOT: Goodbye! Have a nice day.
