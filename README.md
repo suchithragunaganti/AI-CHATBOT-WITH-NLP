@@ -14,7 +14,7 @@ Mentor: Neela Santhosh Kumar
 
 OUTPUT
 
-![Image](https://github.com/user-attachments/assets/bb627476-b536-4aa9-917f-57d6e7e760df)
+![Image](https://github.com/user-attachments/assets/7b302fca-ebf1-4a9b-aa02-a093a619919a)
 
 
 AI Chatbot with NLP 
